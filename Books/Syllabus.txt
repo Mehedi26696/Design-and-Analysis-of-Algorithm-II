@@ -1,0 +1,22 @@
+
+
+Hashing -> (Cormen Introduction to Algorithms -> Chapter 11)
+
+String Matching -> (Cormen Introduction to Algorithms -> Chapter 32)
+
+Tries -> (Data Structures and Algorithms in Java, 6th Edition-> Chapter 13)
+
+NP-Complete -> (Cormen Introduction to Algorithms -> Chapter 34)
+
+Approximation Algorithms -> (Cormen Introduction to Algorithms -> Chapter 35)
+
+Computational Geometry -> (Cormen Introduction to Algorithms -> Chapter 33)
+
+Number Theory -> (Cormen Introduction to Algorithms -> Chapter 31)
+
+Backtracking -> (Intro-to-Design-Analysis-of-Algorithms-3e -> Chapter 12.1)
+
+Branch and Bound -> (Intro-to-Design-Analysis-of-Algorithms-3e -> Chapter 12.2)
+
+
+Online Algorithms -> 
